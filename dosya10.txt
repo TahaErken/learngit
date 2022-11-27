@@ -4,3 +4,8 @@ remote yandala dosya eklendi
 
 
 intellij değişiklik yapıldı
+
+
+
+
+remote (github değişiklik yapıldı)
