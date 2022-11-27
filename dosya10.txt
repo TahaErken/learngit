@@ -1,1 +1,6 @@
 remote yandala dosya eklendi
+
+
+
+
+intellij değişiklik yapıldı
